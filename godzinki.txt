@@ -1,0 +1,11 @@
+					<center><table>
+					<tr><td colspan="5"><center>TELEFONICZNA REJESTRACJA</center></td></tr>
+					<tr><td colspan="2"><center>telefon stacjonarny<br /><strong>32 271 6681</strong></center></td><td>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</td><td colspan="2"><center>telefon komórkowy<br /><strong>662 016 681</strong></center></td></tr>
+					<tr><td align="right">poniedziałek &nbsp;</td><td>17:00 - 18:00</td><td>&nbsp;</td><td align="right">poniedziałek &nbsp;</td><td>15:00 - 19:00</td></tr>
+					<tr><td align="right">wtorek &nbsp;</td><td>13:00 - 16:00</td><td>&nbsp;</td><td align="right">wtorek &nbsp;</td><td>15:00 - 19:00</td></tr>
+					<tr><td align="right">środa &nbsp;</td><td>15:00 - 16:00</td><td>&nbsp;</td><td align="right">środa &nbsp;</td><td>15:00 - 19:00</td></tr>
+					<tr><td align="right">czwartek &nbsp;</td><td align="center">-</td><td>&nbsp;</td><td align="right">czwartek &nbsp;</td><td>15:00 - 19:00</td></tr>
+					<tr><td align="right">piątek &nbsp;</td><td>17:00 - 18:00</td><td>&nbsp;</td><td align="right">piątek &nbsp;</td><td>15:00 - 19:00</td></tr>
+					<tr><td align="right">sobota &nbsp;</td><td align="center">-</td><td>&nbsp;</td><td align="right">sobota &nbsp;</td><td align="center">-</td></tr>
+					<tr><td align="right">niedziela &nbsp;</td><td align="center">-</td><td>&nbsp;</td><td align="right">niedziela &nbsp;</td><td align="center">-</td></tr>
+					</table></center>
