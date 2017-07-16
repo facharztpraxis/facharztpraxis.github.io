@@ -1,0 +1,150 @@
+body {
+	background: url(../img/bodybg.jpg) repeat-x #FFF;
+	font: 12px Helvetica Neue,Helvetica,Arial,sans-serif;
+	color: #393939;
+}
+
+ul {
+    list-style: outside none none;
+	margin: 0;
+}
+
+a:link, a:visited {
+    text-decoration: underline;
+    font-weight: normal;
+    color: #555;
+}
+
+a:hover {
+	text-decoration: none;
+	font-weight: normal;
+	color: #333;
+}
+
+#wrapper {
+	width: 960px;
+	margin: 0 auto;
+}
+
+#container {
+	padding: 20px;
+	background: #F3F3F3;
+	border-radius: 15px;
+	border: 1px solid #DDD;
+	box-shadow: 0 0 2px #FFF inset;
+	text-align: center;
+	width: 898px;
+}
+
+#header {
+	background: url(../img/header.jpg) scroll no-repeat center center;
+	height: 262px;
+	width: 898px;
+	display: inline-block;
+}
+
+#navigation {
+    text-align: center;
+    margin: 0px auto;
+    padding: 0px;
+    background: url("../img/menu.jpg") no-repeat scroll center top transparent;
+    width: 898px;
+    height: 28px;
+}
+
+#navigation li {
+	float: left;
+	margin: 0;
+	padding: 0;
+	height: 28px;
+	background: url(../img/menu_li.jpg) top right no-repeat;
+}
+
+#navigation li a {
+    font-size: 10px;
+    float: left;
+    display: block;
+    line-height: 28px;
+    padding: 0px 8px;
+    color: #777;
+    text-decoration: none;
+    font-weight: normal;
+}
+
+#content {
+	padding: 20px 20px 0;
+}
+
+#content .left {
+	width: 200px;
+	text-align: center;
+}
+
+#content .left > div {
+	padding: 0 0 10px;
+	margin: 0px;
+	border-left: 1px solid #DDD;
+	border-right: 1px solid #DDD;
+	border-bottom: 1px solid #DDD;
+	border-radius: 0 0 10px 10px;
+	width: 178px;
+}
+
+#content .left h3 {
+	color: #2286B3;
+    font-size: 11px;
+    text-align: center;
+    height: 37px;
+    width: 200px;
+    text-decoration: none;
+    padding: 0px;
+    background: url("../img/h3.jpg") no-repeat scroll center top #F3F3F3;
+    font-weight: bold;
+    line-height: 37px;
+    margin: 0px;
+	margin-left: -11px;
+    text-transform: uppercase;
+}
+
+#content .right {
+	width: 658px;
+	display: inline-block;
+	text-align: justify;
+}
+
+#content .right p {
+	text-indent: 35.5pt;
+	margin: 5px 0 0;
+}
+
+#footer {
+	margin: 0 auto;
+	padding: 20px 0;
+	color: #777;
+	text-align: center;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+.porady {
+	text-align: left;
+	padding: 0 5px;
+}
+
+.porady a {
+	line-height: 18px;
+	padding: 0px 0px 0px 8px;
+	text-decoration: none;
+	color: #666;
+	font-weight: normal;
+	font-size: 11px;
+	background: url("../img/menu_row.jpg") no-repeat scroll left center transparent;
+	margin: 0px;
+	height: 18px;
+}

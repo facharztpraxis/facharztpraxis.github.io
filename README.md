@@ -1,1 +1,0 @@
-# facharztpraxis.github.io
